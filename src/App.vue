@@ -1,6 +1,6 @@
 <template>
 	<img alt="Vue logo" src="./assets/logo.png" />
-	<HelloWorld msg="Welcome to Seona Park App" />
+	<HelloWorld msg="Test Success" />
 </template>
 
 <script>
